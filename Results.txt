@@ -1,0 +1,33 @@
+Results:
+
+K=30
+Results of Support Vectors Machine:
+  Percent:  62.5
+Results of Naive Bayes:
+  Percent:  57.49999999999999
+Results of Logistic Regression:
+  Percent:  62.5
+Results of Nearest Neighbour:
+  Percent:  57.49999999999999
+Results of Random Forest:
+  Percent:  56.666666666666664
+
+
+K=10
+Percent:  53.333333333333336
+K=30
+Percent:  57.49999999999999
+K=35
+Percent:  58.333333333333336
+K=50
+Percent:  56.666666666666664
+K=70
+Percent:  60.83333333333333
+
+SVM:
+rdf kernel:
+62.5
+linear kernel:
+60.83333333333333
+Polynomial kernel:
+60.83333333333333
